@@ -1,17 +1,24 @@
 <div align="center">
 
-<img src="assets/profile.jpg" alt="Sudeendra K" width="170" />
+<a href="https://github.com/sudeendrak24">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sudeendra+K+%F0%9F%91%8B;VLSI+Design+%26+Technology+Student;RTL+Design+%7C+Embedded+Systems+%7C+AI+Hardware" alt="Typing introduction" />
+</a>
 
-# Sudeendra K
+### Engineering ideas into intelligent systems.
 
-**EEE (VLSI Design & Technology) undergraduate · RTL Design · Embedded Systems · AI Hardware**
+**VLSI Design & Technology | Embedded Systems | AI Development**
 
-*Building from silicon up to intelligent systems.*
-
-[![3D Resume](https://img.shields.io/badge/3D_Resume-Live-00F7FF?style=for-the-badge&logo=threedotjs&logoColor=black)](https://sudeendrak24.github.io/3d-resume/)
-[![GitHub](https://img.shields.io/badge/GitHub-sudeendrak24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudeendrak24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+<p>
+  <a href="https://github.com/sudeendrak24">
+    <img src="https://img.shields.io/badge/GitHub-sudeendrak24-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 📍 Coimbatore, Tamil Nadu, India
 
@@ -19,61 +26,69 @@
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-B.E. student in **Electrical & Electronics Engineering (VLSI Design & Technology)** at Kalaignar Karunanidhi Institute of Technology, Coimbatore. I work across the stack from digital logic to applied AI:
-
-- **RTL design** in Verilog / SystemVerilog, with FPGA prototyping
-- **Embedded firmware and IoT** on ESP32, Arduino and NodeMCU
-- **Hardware assembly**: PCB routing, SMT and through-hole work
-- **Applied AI** in healthcare and voice interfaces
-
-**Roadmap 2026–2029:** digital logic and RTL verification (UVM) → ASIC / SoC design → AI hardware acceleration.
-
-> 🔎 **Open to** VLSI, RTL verification, embedded systems and AI hardware internships and collaborations.
+- 🎓 B.E. Electrical & Electronics Engineering — VLSI Design & Technology at KIT, Coimbatore.
+- 🔬 Interested in **Digital Design, RTL Development, FPGA Concepts, and Semiconductor Technology**.
+- 💻 Exploring embedded programming, mobile application development, and AI-powered software.
+- 🚀 Building **RUBY-AI**, a personal AI assistant project.
+- 🌱 Continuously learning C programming, hardware-software integration, and Linux-based development.
+- 🎯 Aspiring to contribute to VLSI, semiconductor, embedded systems, and AI hardware engineering.
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Interests & Skills
 
-| Project | Focus | What it does | Stack |
-| :-- | :-- | :-- | :-- |
-| **AYUSH AI** | Healthcare AI | Multilingual medication-safety platform with OCR label scanning and drug-herb interaction mapping (SIH 2026). | `Python` `AI/ML` `Mobile` `Cloud` |
-| **Smart Helmet** | Embedded / Safety IoT | Real-time accident detection and rider telemetry with emergency alerting. | `Microcontrollers` `Sensors` `Embedded C` |
-| **AquaSense** | IoT Hardware | Water management and leak detection with real-time monitoring. | `ESP32` `Ultrasonic / Flow sensors` `C` |
-| **Mom's Hand** | Mobile | Clean-architecture parental monitoring app with live location and alerts. | `Flutter` `Firebase` `Maps API` |
-| **Jarvis Assistant** | Voice AI / Android | Voice-activated personal assistant for hands-free tasks. | `Java` `Android Studio` `Speech APIs` |
+### Hardware & VLSI
+![Verilog](https://img.shields.io/badge/Verilog-Learning%20%26%20Development-151515?style=flat-square)
+![RTL](https://img.shields.io/badge/RTL-Design-1E293B?style=flat-square)
+![Digital Logic](https://img.shields.io/badge/Digital%20Logic-Fundamentals-1E293B?style=flat-square)
+![FPGA](https://img.shields.io/badge/FPGA-Exploration-0071C5?style=flat-square)
+
+### Programming & Development
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-557C94?style=flat-square&logo=linux&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## Experience
+## 🚀 Featured Projects
 
-| Role | Organisation | Period |
-| :-- | :-- | :-- |
-| Hardware Engineering Intern: PCB manufacturing, SMT assembly, DRC, Gerber generation, soldering, testing and QA | Pioneer Circuits | Jun 2026 |
-| Web Development Intern (online) | A&SNextGen Pvt. Ltd. | Jun 2026 |
-
-**Certifications:** Artificial Intelligence Mastery (Beep Learning) · Project Management Assessment (LearnTube.ai)
+| Project | Focus | Overview |
+|---|---|---|
+| **RUBY-AI** | Personal AI Assistant | Exploring a voice-first assistant with modular application logic and intelligent interaction. |
+| **AYUSH AI** | Healthcare Technology | Concept for multilingual healthcare information and medication-safety awareness. |
+| **Mom's Hand** | Mobile Development | Family-oriented safety and monitoring application concept. |
+| **Embedded Systems Projects** | Hardware & IoT | Exploring sensor integration, microcontrollers, and embedded C applications. |
 
 ---
 
-## Tech Stack
+## 📊 GitHub Statistics
 
-**Hardware & Verification** &nbsp; ![Verilog](https://img.shields.io/badge/Verilog-1E293B?style=flat-square) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E293B?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA_Prototyping-1E293B?style=flat-square) ![PCB](https://img.shields.io/badge/PCB_%26_SMT-1E293B?style=flat-square)
+<div align="center">
 
-**Embedded & IoT** &nbsp; ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sudeendrak24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub statistics" />
 
-**Software, Mobile & AI** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeendrak24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used languages" />
 
-**Tools** &nbsp; ![Linux](https://img.shields.io/badge/Linux-557C94?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeendrak24&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sudeendrak24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeendrak24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+**Learning • Building • Innovating**
 
-<sub>Off the clock: producing Tamil Kuthu and rap beats, tweaking Linux setups, planning long-haul motorcycle rides.</sub>
+Open to learning opportunities, engineering projects, and collaborations in VLSI, embedded systems, and AI hardware.
 
 </div>
