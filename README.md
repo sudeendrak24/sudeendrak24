@@ -1,94 +1,64 @@
-<div align="center">
+# Sudeendra K
 
-<a href="https://github.com/sudeendrak24">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sudeendra+K+%F0%9F%91%8B;VLSI+Design+%26+Technology+Student;RTL+Design+%7C+Embedded+Systems+%7C+AI+Hardware" alt="Typing introduction" />
-</a>
+**Electrical & Electronics Engineering (VLSI Design & Technology) undergraduate**
+Kalaignar Karunanidhi Institute of Technology, Coimbatore, India
 
-### Engineering ideas into intelligent systems.
+I work across digital design, embedded systems and applied AI, with a focus on RTL design and hardware-aware software. I'm looking for internships in VLSI, RTL design/verification and embedded systems.
 
-**VLSI Design & Technology | Embedded Systems | AI Development**
-
-<p>
-  <a href="https://github.com/sudeendrak24">
-    <img src="https://img.shields.io/badge/GitHub-sudeendrak24-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
-📍 Coimbatore, Tamil Nadu, India
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-sudeendrak24-181717?style=flat-square&logo=github)](https://github.com/sudeendrak24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## Focus Areas
 
-- 🎓 B.E. Electrical & Electronics Engineering — VLSI Design & Technology at KIT, Coimbatore.
-- 🔬 Interested in **Digital Design, RTL Development, FPGA Concepts, and Semiconductor Technology**.
-- 💻 Exploring embedded programming, mobile application development, and AI-powered software.
-- 🚀 Building **RUBY-AI**, a personal AI assistant project.
-- 🌱 Continuously learning C programming, hardware-software integration, and Linux-based development.
-- 🎯 Aspiring to contribute to VLSI, semiconductor, embedded systems, and AI hardware engineering.
+- **Digital design:** RTL design in Verilog and SystemVerilog
+- **Embedded systems:** microcontroller firmware and IoT architecture (ESP32, Arduino, NodeMCU)
+- **Hardware fabrication:** PCB design flow and SMT assembly
+- **Applied AI:** healthcare AI, voice interfaces and mobile apps
 
----
+## Featured Projects
 
-## 🛠️ Technical Interests & Skills
+| Project | Summary | Stack |
+| :--- | :--- | :--- |
+| **AYUSH AI** | Multilingual medication-safety platform with label scanning and drug-herb interaction mapping. Prepared for Smart India Hackathon 2026. | Python, AI/ML, Web, Mobile |
+| **AquaSense** | IoT water management prototype with real-time monitoring and leak detection using ultrasonic and flow sensors. | ESP32, C, Sensors |
+| **Smart Helmet** | Rider safety system with accident detection and telemetry for emergency alerts. | Embedded C, Sensors |
+| **Mom's Hand** | Parental monitoring app with live location tracking and alerts, built on clean architecture. | Flutter, Firebase, Google Maps API |
+| **Jarvis** | Voice-activated personal assistant for hands-free task execution on Android. | Java, Android Studio, Speech APIs |
 
-### Hardware & VLSI
-![Verilog](https://img.shields.io/badge/Verilog-Learning%20%26%20Development-151515?style=flat-square)
-![RTL](https://img.shields.io/badge/RTL-Design-1E293B?style=flat-square)
-![Digital Logic](https://img.shields.io/badge/Digital%20Logic-Fundamentals-1E293B?style=flat-square)
-![FPGA](https://img.shields.io/badge/FPGA-Exploration-0071C5?style=flat-square)
+<!-- Add a repository link under each project once the repos are public. -->
 
-### Programming & Development
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+## Experience
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-557C94?style=flat-square&logo=linux&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Hardware Engineering Intern, Pioneer Circuits** (June 2026)
+PCB manufacturing and SMT assembly. Covered PCB routing, design rule checks, Gerber generation, CNC operation, through-hole assembly, soldering, testing and quality inspection.
 
----
+**Web Development Intern, A&SNextGen Pvt. Ltd.** (June 2026, online)
+Three-day program on web development fundamentals and industry practices.
 
-## 🚀 Featured Projects
+## Technical Skills
 
-| Project | Focus | Overview |
-|---|---|---|
-| **RUBY-AI** | Personal AI Assistant | Exploring a voice-first assistant with modular application logic and intelligent interaction. |
-| **AYUSH AI** | Healthcare Technology | Concept for multilingual healthcare information and medication-safety awareness. |
-| **Mom's Hand** | Mobile Development | Family-oriented safety and monitoring application concept. |
-| **Embedded Systems Projects** | Hardware & IoT | Exploring sensor integration, microcontrollers, and embedded C applications. |
+| Area | Tools |
+| :--- | :--- |
+| Hardware description | Verilog, SystemVerilog |
+| Embedded | C, ESP32, Arduino, NodeMCU |
+| Software | Python, Java, JavaScript, Flutter, SQL |
+| Platforms and tools | Firebase, Git, Android Studio, Linux |
+| Hardware workflow | PCB routing, DRC, Gerber, SMT assembly |
 
----
+## Currently Learning
 
-## 📊 GitHub Statistics
+- RTL verification methodology (UVM)
+- FPGA prototyping
+- Path toward ASIC/SoC design and AI hardware acceleration
 
-<div align="center">
+## Certifications
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sudeendrak24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeendrak24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeendrak24&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak" />
-
-</div>
+- Artificial Intelligence Mastery, Beep Learning (July 2026)
+- Project Management Assessment, LearnTube.ai (July 2026)
 
 ---
 
-<div align="center">
-
-**Learning • Building • Innovating**
-
-Open to learning opportunities, engineering projects, and collaborations in VLSI, embedded systems, and AI hardware.
-
-</div>
+*Open to internships and collaborations in VLSI, RTL verification, embedded systems and AI hardware.*
